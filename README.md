@@ -159,7 +159,7 @@ redis-cli -h 127.0.0.1 -p 6379 -a 123456
 
 ### 3、接口测试
 
-相关接口测试的代码都放在httptest目录下，使用方法参考[**Gin - 高性能 Golang Web 框架的介绍和使用**]([https://github.com/zhongzhh8/Notes/blob/master/Gin%20-%20%E9%AB%98%E6%80%A7%E8%83%BD%20Golang%20Web%20%E6%A1%86%E6%9E%B6%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8.md](https://github.com/zhongzhh8/Notes/blob/master/Gin - 高性能 Golang Web 框架的介绍和使用.md))的最后一个小节，详细讲述了如何使用 Go 官方包 `net/http/httptest` 来测试项目接口。
+相关接口测试的代码都放在httptest目录下，使用方法参考[Gin - 高性能 Golang Web 框架的介绍和使用](https://github.com/zhongzhh8/Notes/blob/master/Gin - 高性能 Golang Web 框架的介绍和使用.md)的最后一个小节，详细讲述了如何使用 Go 官方包 `net/http/httptest` 来测试项目接口。
 
 测试过程略。
 
