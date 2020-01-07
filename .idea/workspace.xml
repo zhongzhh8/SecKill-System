@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3923010-f81a-423f-b63a-daffda3d8724" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/api/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/auth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/dbService/coupon.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/dbService/coupon.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/mq.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/mq.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/redisService/coupon.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/redisService/coupon.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/redisService/user.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/users.go" beforeDir="false" afterPath="$PROJECT_DIR$/api/users.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine/secKill.go" beforeDir="false" afterPath="$PROJECT_DIR$/engine/secKill.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1Vyt4Dr5qWSM5jaSXZLMCeLL8vb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="201" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578316166895">
+      <screen x="67" y="27" width="1404" height="898" />
+    </state>
+    <state x="475" y="201" width="424" height="484" key="FileChooserDialogImpl/67.27.1404.898@67.27.1404.898" timestamp="1578316166895" />
+    <state x="258" y="110" key="SettingsEditor" timestamp="1578316375553">
+      <screen x="67" y="27" width="1404" height="898" />
+    </state>
+    <state x="258" y="110" key="SettingsEditor/67.27.1404.898@67.27.1404.898" timestamp="1578316375553" />
+  </component>
+</project>
