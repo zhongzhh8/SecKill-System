@@ -1,5 +1,3 @@
-[TOC]
-
 # 课程项目要求
 
 [说明文档](https://shimo.im/docs/9vtcTDHJDYQr8xVp/read)	[接口文档](https://www.eolinker.com/#/share/index?shareCode=2Y2Zkd)
@@ -20,7 +18,7 @@ docker-compose 1.25.0
 
  ![1578462368446](README.assets/1578462368446.png)
 
-
+本项目用到的技术原理总结在[高并发秒杀项目总结笔记（Golang, Redis, lua）](https://blog.csdn.net/weixin_41519463/article/details/103892737)
 
 # 开始
 
