@@ -14,6 +14,12 @@ docker CE 19.03.5
 
 docker-compose 1.25.0
 
+# 系统结构
+
+ ![1578462368446](README.assets/1578462368446.png)
+
+
+
 # 开始
 
 首先安装上述环境，还有IDE：goland，安装方法参考
